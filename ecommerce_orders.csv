@@ -1,0 +1,16 @@
+order_id,customer_id,product,category,quantity,unit_price,status
+O001,C101,Laptop,Electronics,1,55000,Completed
+O002,C102,Smartphone,Electronics,2,32000,Pending
+O003,C101,Headphones,Electronics,1,2500,Completed
+O004,C103,Keyboard,Accessories,2,1800,Failed
+O005,C104,Office Chair,Furniture,1,8500,Completed
+O006,C105,Mouse,Accessories,3,1200,Completed
+O007,C102,Monitor,Electronics,1,15000,Pending
+O008,C106,Backpack,Accessories,2,2500,Completed
+O009,C103,Tablet,Electronics,1,22000,Completed
+O010,C107,Desk,Furniture,1,12000,Cancelled
+O011,C104,Webcam,Electronics,2,3500,Completed
+O012,C108,Keyboard,Accessories,1,1800,Pending
+O013,C105,Smartwatch,Electronics,1,7500,Completed
+O014,C109,Printer,Electronics,1,12500,Failed
+O015,C106,USB Cable,Accessories,5,500,Completed

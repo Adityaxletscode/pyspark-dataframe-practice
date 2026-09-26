@@ -1,0 +1,16 @@
+order_id,customer_id,product,amount,status
+O001,C001,Laptop,55000,Completed
+O002,C002,Smartphone,32000,Completed
+O003,C001,Headphones,2500,Pending
+O004,C003,Keyboard,1800,Completed
+O005,C004,Monitor,15000,Cancelled
+O006,C005,Tablet,22000,Completed
+O007,C002,Mouse,1200,Completed
+O008,C006,Laptop,62000,Pending
+O009,C007,Smartwatch,8500,Completed
+O010,C008,Printer,12500,Completed
+O011,C003,Webcam,4500,Pending
+O012,C009,Smartphone,28000,Completed
+O013,C010,Headphones,3200,Cancelled
+O014,C005,Keyboard,2200,Completed
+O015,C004,Tablet,19000,Completed

@@ -1,0 +1,16 @@
+employee_id,employee_name,department,salary,email
+101,Amit,IT,65000.0,amit@company.com
+102,Priya,HR,45000.0,priya@company.com
+103,Rahul,,55000.0,rahul@company.com
+104,Sneha,IT,,sneha@company.com
+105,,Sales,50000.0,arjun@company.com
+106,Neha,HR,48000.0,
+107,Vikash,,68000.0,vikash@company.com
+108,Anjali,Finance,,anjali@company.com
+109,,Sales,52000.0,
+110,Pooja,IT,75000.0,pooja@company.com
+111,Karan,,59000.0,karan@company.com
+112,Meera,Finance,,
+113,Rohan,Marketing,61000.0,rohan@company.com
+114,,HR,47000.0,nisha@company.com
+115,Kavya,Marketing,58000.0,
