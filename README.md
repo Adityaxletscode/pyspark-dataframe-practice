@@ -1,4 +1,4 @@
-# PySpark DataFrame Assignment
+# PySpark DataFrame Practice
 
 A practical **PySpark DataFrame assignment** covering core DataFrame
 operations used in data engineering and analytics workflows.
@@ -6,18 +6,6 @@ operations used in data engineering and analytics workflows.
 The notebook contains hands-on exercises involving filtering, column
 transformations, conditional logic, missing-value handling,
 aggregations, joins, and window functions.
-
-## 📌 Repository
-
-**Suggested repository name:**
-
-`pyspark-dataframe-assignment`
-
-**Suggested description:**
-
-> Hands-on PySpark DataFrame exercises using Databricks, covering
-> filtering, transformations, aggregations, joins, data cleaning, and
-> window functions.
 
 ## 🧰 Technologies & Platform Used
 
